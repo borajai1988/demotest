@@ -1,1 +1,2 @@
 Validate A
+newline
